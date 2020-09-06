@@ -41,7 +41,7 @@ def count_lines(file='no_line_script.txt'):
     file.close()
     return index + 1
 
-def remove_lines(original='script.txt', empty='no_line_script.txt'):
+def remove_lines(original='mormon.txt', empty='no_line_script.txt'):
     script = open(original, 'r')
     empty_script = open(empty, 'w')
 
