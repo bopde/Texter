@@ -6,6 +6,7 @@ This project uses the fbchat library to send lines from the Bee movie to your fr
 ### Method 1:
 Use the virtual environment included inside the repository 
 1. ```source env/bin/activate```
+1a. PC env\Scripts\activate
 2. ```python fb.py```
 
 ### Method 2:
